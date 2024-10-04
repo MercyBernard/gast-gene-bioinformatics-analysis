@@ -19,5 +19,6 @@ Entrez.email = "email"
 # Retrieve Coding Sequence (CDS) from NCBI
 You can fetch the coding sequence (CDS) of a gene by accession number using Biopython’s Entrez tool.
 
+# Summary
 This repository allows you to easily conduct basic bioinformatics tasks using Biopython. 
 You can build on these scripts to analyze other genomic features, simulate additional mutations, or design more advanced primers for PCR.
